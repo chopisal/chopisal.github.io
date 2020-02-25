@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: BongSeong
+  avatar: avatar.jpg
+  job: "programmer"
+  bio: "Hello world"
+  email: chopisal@gmail.com
   disqus-shortname:
   # twitter: #username
   # facebook: #username
